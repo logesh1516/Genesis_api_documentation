@@ -103,7 +103,7 @@ An Examlpe code block
 | `get_dofs_kp()` | Get current positional gain. |
 | `set_dofs_kv(kv[])` | Set velocity gain (D) for joints. |
 | `get_dofs_kv()` | Get current velocity gain. |
-| `set_dofs_force_range([])` | Set allowable force range for DOFs. |
+| `set_dofs_force_range([])` | Set allowable force range for DOFs.|
 | `get_dofs_force_range()` | Get force range of DOFs. |
 | `set_dofs_damping([])` | Set damping for DOFs. |
 | `get_dofs_damping()` | Get damping of DOFs. |
