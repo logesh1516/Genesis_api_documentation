@@ -131,5 +131,5 @@ An Examlpe code block
 
 ## Scene Properties
 
-- `solver` → Retrieves the solver information of the scene (e.g., physics solver type, parameters).
+- `solver` → Retrieves the solver information of the scene (e.g, physics solver type, parameters).
 
