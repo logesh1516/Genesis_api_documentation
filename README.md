@@ -3,7 +3,7 @@
 
 This document provides a concise reference for the **Genesis** simulation framework, detailing its core classes, methods, and properties.
 > [!NOTE]
-> Only essential api's are documented here , everything will be added in the future.
+> Only essential api's are documented here, everything will be added in the future.
 
 ---
 
