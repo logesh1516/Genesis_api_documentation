@@ -20,7 +20,7 @@ This document provides a concise reference for the **Genesis** simulation framew
 
 ## How to use these API
 
-An Examlpe code block 
+An Examlpe code block
 
 ```py
 
